@@ -1,35 +1,58 @@
-# How to Setup & Run this Project
+# 🏨 Hotel Booking Platform
+
+A full-stack hotel booking application that allows users to search hotels, check availability, and complete secure bookings online.
+
+## 🚀 Tech Stack
+
+React.js  
+Node.js  
+Express.js  
+MongoDB  
+Tailwind CSS  
+Stripe  
+Clerk  
+Cloudinary  
+
+## ✨ Features
+
+- User authentication using Clerk (Google + Email login)
+- Hotel search and filtering
+- Room detail pages with availability
+- Secure payments using Stripe
+- Booking history for users
+- Email notifications for bookings
+- Hotel owner dashboard to manage listings and rooms
+- Fully responsive UI using Tailwind CSS
+
+## 🌐 Live Demo
+
+Add your deployed link here  
+Example: https://hotel-booking.vercel.app
+
+## 📸 Screenshots
+
+(Add 2–3 screenshots here)
+
+---
+
+# ⚙️ Project Setup
 
 ## 🛠️ Prerequisites
 
-### ❖ Install Node.js (Skip if already installed)
-1. Visit the official Node.js website.
-2. Download the Node.js installer.
-3. Run the installer and complete the setup.
-
-> **Note**: Always start the **Server** before running the **Client**.
-
----
+Install Node.js if not already installed.
 
 ## ⚙️ Server Setup
 
-1. Open the project folder in **VS Code**.
-2. Setup **MongoDB** and obtain your `MongoURI`.
-3. Setup **Cloudinary** for image and file hosting.
-4. Setup **Clerk** for authentication and configure **Clerk Webhooks**.
-5. Setup **Stripe** for payment processing.
-6. Setup **Brevo** for email/mailing feature.
-7. Push the project to GitHub.
-8. Deploy the backend to a hosting platform to obtain your backend URL.
-9. Add the backend URL to **Clerk Webhooks** and **Stripe Webhooks**.
-
-> ✅ Ensure the server is deployed and running before starting the client.
-
----
+1. Setup MongoDB and obtain `MongoURI`
+2. Setup Cloudinary
+3. Setup Clerk authentication
+4. Configure Clerk Webhooks
+5. Setup Stripe
+6. Setup Brevo for emails
 
 ## 💻 Client Setup
 
-1. Open the client folder in the integrated terminal.
-2. Install dependencies:
-   ```bash
-   npm install
+Install dependencies
+
+```bash
+npm install
