@@ -5,7 +5,7 @@ hotels, view rooms, and complete secure bookings online.
 
 ## 🌐 Live Demo
 
-🚀 https://YOUR-LIVE-LINK.vercel.app
+🚀 https://client-booking-seven.vercel.app
 
 ## 🚀 Tech Stack
 
@@ -25,25 +25,25 @@ hotels, view rooms, and complete secure bookings online.
 ![Homepage](screenshots/homepage.png)
 
 ### Featured Hotels Section
-![Featured Hotels](screenshots/featured-hotels.png)
+![Featured Hotels](screenshots/featured-hotels.PNG)
 
 ### Hotel Details Page
-![Hotel Details](screenshots/hotel-details1.png)
+![Hotel Details](screenshots/hotel-details1.PNG)
 
 ### Hotel Details Page
-![Hotel Details](screenshots/hotel-details2.png)
+![Hotel Details](screenshots/hotel-details2.PNG)
 
 ### Search Hotels Page
-![Search Hotels](screenshots/search-hotels.png)
+![Search Hotels](screenshots/search-hotels.PNG)
 
 ### Owner Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.PNG)
 
 ### Add Room Page
-![Add Room](screenshots/add-room.png)
+![Add Room](screenshots/add-room.PNG)
 
 ### List Room Page
-![List Room](screenshots/list-room.png)
+![List Room](screenshots/list-room.PNG)
 
 ## ✨ Key Features
 
