@@ -1,58 +1,65 @@
 # 🏨 Hotel Booking Platform
 
-A full-stack hotel booking application that allows users to search hotels, check availability, and complete secure bookings online.
+A full‑stack hotel booking web application that allows users to search
+hotels, view rooms, and complete secure bookings online.
 
 ## 🚀 Tech Stack
 
-React.js  
-Node.js  
-Express.js  
-MongoDB  
-Tailwind CSS  
-Stripe  
-Clerk  
-Cloudinary  
+-   React.js
+-   Node.js
+-   Express.js
+-   MongoDB
+-   Tailwind CSS
+-   Stripe
+-   Clerk Authentication
+-   Cloudinary
+-   Vercel Deployment
 
-## ✨ Features
+## ✨ Key Features
 
-- User authentication using Clerk (Google + Email login)
-- Hotel search and filtering
-- Room detail pages with availability
-- Secure payments using Stripe
-- Booking history for users
-- Email notifications for bookings
-- Hotel owner dashboard to manage listings and rooms
-- Fully responsive UI using Tailwind CSS
+-   Secure authentication using Clerk (Google + Email login)
+-   Hotel search and filtering
+-   Room details with availability check
+-   Real‑time booking workflow
+-   Secure online payments using Stripe
+-   Booking history for users
+-   Hotel owner dashboard to manage rooms and listings
+-   Fully responsive UI built with Tailwind CSS
 
 ## 🌐 Live Demo
 
-Add your deployed link here  
-Example: https://hotel-booking.vercel.app
+Add your deployed link here
 
 ## 📸 Screenshots
 
-(Add 2–3 screenshots here)
+Add screenshots of: - Homepage - Hotel details page - Booking dashboard
 
----
+------------------------------------------------------------------------
 
 # ⚙️ Project Setup
 
-## 🛠️ Prerequisites
+## Prerequisites
 
 Install Node.js if not already installed.
 
-## ⚙️ Server Setup
+## Server Setup
 
-1. Setup MongoDB and obtain `MongoURI`
-2. Setup Cloudinary
-3. Setup Clerk authentication
-4. Configure Clerk Webhooks
-5. Setup Stripe
-6. Setup Brevo for emails
+1.  Setup MongoDB Atlas and obtain MongoURI
+2.  Setup Cloudinary for image storage
+3.  Configure Clerk authentication and webhooks
+4.  Setup Stripe payment gateway
+5.  Deploy backend to hosting platform
 
-## 💻 Client Setup
+## Client Setup
 
 Install dependencies
 
-```bash
-npm install
+    npm install
+
+Run development server
+
+    npm run dev
+
+## Author
+
+Ram Pravesh Singh
