@@ -3,6 +3,10 @@
 A full‑stack hotel booking web application that allows users to search
 hotels, view rooms, and complete secure bookings online.
 
+## 🌐 Live Demo
+
+🚀 https://YOUR-LIVE-LINK.vercel.app
+
 ## 🚀 Tech Stack
 
 -   React.js
@@ -15,6 +19,32 @@ hotels, view rooms, and complete secure bookings online.
 -   Cloudinary
 -   Vercel Deployment
 
+## 📸 Screenshots
+
+### Homepage
+![Homepage](screenshots/homepage.png)
+
+### Featured Hotels Section
+![Featured Hotels](screenshots/featured-hotels.png)
+
+### Hotel Details Page
+![Hotel Details](screenshots/hotel-details1.png)
+
+### Hotel Details Page
+![Hotel Details](screenshots/hotel-details2.png)
+
+### Search Hotels Page
+![Search Hotels](screenshots/search-hotels.png)
+
+### Owner Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Add Room Page
+![Add Room](screenshots/add-room.png)
+
+### List Room Page
+![List Room](screenshots/list-room.png)
+
 ## ✨ Key Features
 
 -   Secure authentication using Clerk (Google + Email login)
@@ -25,14 +55,6 @@ hotels, view rooms, and complete secure bookings online.
 -   Booking history for users
 -   Hotel owner dashboard to manage rooms and listings
 -   Fully responsive UI built with Tailwind CSS
-
-## 🌐 Live Demo
-
-Add your deployed link here
-
-## 📸 Screenshots
-
-Add screenshots of: - Homepage - Hotel details page - Booking dashboard
 
 ------------------------------------------------------------------------
 
