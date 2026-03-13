@@ -22,7 +22,7 @@ hotels, view rooms, and complete secure bookings online.
 ## 📸 Screenshots
 
 ### Homepage
-![Homepage](screenshots/homepage.png)
+![Homepage](screenshots/homepage.PNG)
 
 ### Featured Hotels Section
 ![Featured Hotels](screenshots/featured-hotels.PNG)
